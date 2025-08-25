@@ -101,5 +101,5 @@ Actors and Use Cases identified for the booking system include:
   - Generate Reports  
 
 Below is the Use Case Diagram for the Booking System:  
-
+![alt text](alx-booking-uc.png)
 ![Booking System Use Case Diagram](alx-booking-uc.png)
